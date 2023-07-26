@@ -1,0 +1,27 @@
+<template><div><h1 id="b8-shows-curiosity-to-the-business-context-in-which-the-solution-will-be-used-displaying-an-inquisitive-approach-to-solving-the-problem" tabindex="-1"><a class="header-anchor" href="#b8-shows-curiosity-to-the-business-context-in-which-the-solution-will-be-used-displaying-an-inquisitive-approach-to-solving-the-problem" aria-hidden="true">#</a> B8: shows curiosity to the business context in which the solution will be used, displaying an inquisitive approach to solving the problem</h1>
+<ul>
+<li>[ ] Assessment method 2: Professional discussion with Portfolio</li>
+</ul>
+<p>The behavior you mentioned for an apprentice software developer can be summarized as follows:</p>
+<ol>
+<li>
+<p><strong>Curiosity about the business context</strong>: It means showing an interest and curiosity in understanding the specific environment, industry, or domain in which the software solution will be implemented. The developer should seek to understand how the solution fits into the larger picture, what challenges or requirements exist, and how it can add value to the business.</p>
+</li>
+<li>
+<p><strong>Inquisitive approach to problem-solving</strong>: This refers to being curious and inquiring when it comes to solving problems. Instead of settling for the first solution that comes to mind, the developer should explore different possibilities, ask questions, and dig deeper to gain a comprehensive understanding of the problem at hand. They should strive to uncover alternative approaches and consider different perspectives.</p>
+</li>
+<li>
+<p><strong>Exploration of new opportunities and techniques</strong>: It involves actively seeking out and exploring new opportunities and techniques within the field of software development. This can include staying updated with the latest industry trends, tools, and technologies, attending conferences or workshops, participating in online communities, and experimenting with new methods. The developer should have a growth mindset and be open to learning and adopting new practices.</p>
+</li>
+<li>
+<p><strong>Tenacity to improve methods and maximize performance</strong>: This implies having a strong drive to continuously improve and optimize the methods and processes used in developing software solutions. The developer should actively seek ways to enhance the efficiency, reliability, and overall performance of their code. They should be willing to experiment with different approaches, gather feedback, and iterate on their solutions to achieve better results.</p>
+</li>
+<li>
+<p><strong>Creativity in approach to solutions</strong>: It means thinking outside the box and coming up with innovative and creative solutions to problems. The developer should not be limited by conventional thinking but instead, explore unconventional or unique approaches when appropriate. They should be able to identify opportunities for innovation and apply their creative thinking to develop novel solutions.</p>
+</li>
+</ol>
+<p>These behaviors demonstrate that the apprentice software developer is not only technically skilled but also possesses a mindset of curiosity, continuous improvement, and creative problem-solving. They are proactive in understanding the business context, exploring new possibilities, and finding ways to enhance the performance and effectiveness of their solutions.</p>
+<p><RouterLink to="/">Back</RouterLink></p>
+</div></template>
+
+

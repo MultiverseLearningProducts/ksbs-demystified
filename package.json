@@ -1,0 +1,17 @@
+{
+  "name": "ksbs-demystified",
+  "version": "1.0.0",
+  "description": "The role of an apprentice software engineer is crucial for several reasons:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev src",
+    "docs:build": "vuepress build src"
+  },
+  "keywords": [],
+  "author": "Matthew Gibbons <matthew.gibbons@multiverse.io>",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^2.0.0-beta.66"
+  }
+}

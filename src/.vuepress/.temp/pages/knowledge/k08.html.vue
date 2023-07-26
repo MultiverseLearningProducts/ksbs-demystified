@@ -1,0 +1,13 @@
+<template><div><h1 id="k8-organisational-policies-and-procedures-relating-to-the-tasks-being-undertaken-and-when-to-follow-them-for-example-the-storage-and-treatment-of-gdpr-sensitive-data" tabindex="-1"><a class="header-anchor" href="#k8-organisational-policies-and-procedures-relating-to-the-tasks-being-undertaken-and-when-to-follow-them-for-example-the-storage-and-treatment-of-gdpr-sensitive-data" aria-hidden="true">#</a> K8: organisational policies and procedures relating to the tasks being undertaken, and when to follow them. For example the storage and treatment of GDPR sensitive data</h1>
+<ul>
+<li>[ ] Assessment method 2: Professional discussion with Portfolio</li>
+</ul>
+<p>&quot;Organisational policies and procedures relating to the tasks being undertaken, and when to follow them&quot; refers to the set of rules, guidelines, and protocols established by an organization that govern the actions and behavior of its employees or members. These policies and procedures provide a framework for conducting various tasks within the organization, including software development.</p>
+<p>As an apprentice software developer, demonstrating knowledge of organizational policies and procedures involves understanding and adhering to the specific guidelines set by your organization in relation to the tasks you are assigned. These policies may cover a wide range of areas, including information security, data protection, code management, software development methodologies, and more.</p>
+<p>One specific example mentioned is the storage and treatment of GDPR (General Data Protection Regulation) sensitive data. GDPR is a data protection law that sets guidelines for the collection, storage, and processing of personal data within the European Union (EU) and European Economic Area (EEA). If your organization handles personal data covered by GDPR, there will be specific policies and procedures in place to ensure compliance with these regulations.</p>
+<p>As an apprentice software developer, you need to demonstrate knowledge of these policies and procedures by understanding the requirements for handling GDPR sensitive data. This may include knowing how to securely store and transmit such data, implementing appropriate data protection measures, obtaining necessary consents, and ensuring compliance with other GDPR obligations.</p>
+<p>By demonstrating your knowledge of organizational policies and procedures, including GDPR compliance, you show that you understand the importance of following established rules and guidelines to protect sensitive data, maintain security, and uphold legal and regulatory obligations.</p>
+<p><RouterLink to="/">Back</RouterLink></p>
+</div></template>
+
+
