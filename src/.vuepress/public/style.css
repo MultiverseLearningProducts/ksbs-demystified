@@ -1,0 +1,41 @@
+.task-list-item {
+  list-style-type: none;
+}
+
+.task-list-item label {
+  font-weight: var(--base-text-weight-normal, 400);
+}
+
+.task-list-item.enabled label {
+  cursor: pointer;
+}
+
+.task-list-item + .task-list-item {
+  margin-top: 4px;
+}
+
+.task-list-item .handle {
+  display: none;
+}
+
+.task-list-item-checkbox {
+  margin: 0 0.2em 0.25em -1.4em;
+  vertical-align: middle;
+}
+
+.contains-task-list:dir(rtl) .task-list-item-checkbox {
+  margin: 0 -1.6em 0.25em 0.2em;
+}
+
+.contains-task-list {
+  position: relative;
+}
+
+.contains-task-list:hover .task-list-item-convert-container,
+.contains-task-list:focus-within .task-list-item-convert-container {
+  display: block;
+  width: auto;
+  height: 24px;
+  overflow: visible;
+  clip: auto;
+}
