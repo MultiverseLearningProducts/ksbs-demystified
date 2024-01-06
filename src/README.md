@@ -161,7 +161,6 @@ The development of these behaviours is important not only for the completion of 
 - [B2: applies logical thinking](./behaviours/b02.md)
 - [B3: maintains a productive, professional and secure working environment](./behaviours/b03.md)
 - [B4: works collaboratively with a wide range of people in different roles, internally and externally, with a positive attitude to inclusion & diversity](./behaviours/b04.md)
-
 - [B5: acts with integrity with respect to ethical, legal and regulatory ensuring the protection of personal data, safety and security](./behaviours/b05.md)
 - [B6: shows initiative and takes responsibility for solving problems within their own remit, being resourceful when faced with a problem to solve](./behaviours/b06.md)
 - [B7: communicates effectively in a variety of situations to both a technical and non-technical audience](./behaviours/b07.md)
